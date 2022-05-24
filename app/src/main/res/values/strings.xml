@@ -10,15 +10,56 @@
     <string name="harga_prodi">Biaya</string>
     <string name="short_message">Terima kasih atas pembayaran</string>
 
+    <string name="lihat_reward">Lihat Reward</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Sebuah platform yang membantu educator untuk memperoleh penghasilan dengan mengajar dan membagikan konten pembelajaran</string>
+
+    <string name="hasil_x">Total bayar: %1$.2f</string>
+    <string name="data_x">Program studi:\n %1$s</string>
+    <string name="reward_x">Reward: %1$s</string>
+
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="hapus_histori">Hapus Histori</string>
+
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+
     <string name="name_invalid">Nama tidak boleh kosong.</string>
     <string name="time_invalid">Waktu tidak boleh kosong.</string>
     <string name="major_invalid">Prodi tidak boleh kosong.</string>
     <string name="course_invalid">Kursus tidak boleh kosong.</string>
     <string name="price_invalid">Harga tidak boleh kosong.</string>
 
-    <string name="rpla">250000</string>
-    <string name="tt">215000</string>
-    <string name="si">185000</string>
+    <string name="tas">Tas Eiger</string>
+    <string name="laptop">Laptop Macbook</string>
+    <string name="headphone">Headphone Logitech</string>
+
+    <string name="bonus">Selamat kamu mendapatkan %1$s</string>
+    <string name="bagikan_template">Nama: %1$s \nProgram studi: %2$s \nKelompok kursus: %3$s\n\n%4$s\n%5$s</string>
+
+    <string name="detail_tas"><b><big>Tas Kuliah</big></b>
+        \n <li>Ukuran Produk 29x10x42 cm</li>
+        \n <li>Terbuat dari bahan nylon yang dipadukan dengan synthetic leather</li>
+        \n <li>Tali ransel yang empuk untuk kenyamanan dalam pemakaian</li>
+    </string>
+
+    <string name="detail_laptop"><b><big>Laptop Macbook</big></b>
+        \n <li>Apple M1 chip with 8-core CPU, 8-core GPU, and 16-core Neural Engine</li>
+        \n <li>512GB SSD storage</li>
+        \n <li>13-inch Retina display with True Tone</li>
+    </string>
+
+    <string name="detail_hedphone"><b><big>Headphone Logitech</big></b>
+        \n <li>Driver: Hybrid mesh PRO-G 50 mm</li>
+        \n <li>Y splitter untuk port mikrofon dan headphone terpisah</li>
+        \n <li>Memory foam and leatherette ear pad</li>
+    </string>
+    <string name="rpla">D3 Rekayasa Perangkat Lunak Aplikasi</string>
+    <string name="tt">D3 Teknolongi Telekomunikasi</string>
+    <string name="si">D3 Sistem Informasi</string>
 
     <string-array name="list_prodi_name">
         <item />
@@ -49,14 +90,5 @@
         <item>Arsitektur dan Sistem Komputer</item>
         <item>Algoritma dan Pemrograman Komputer</item>
         <item>Aplikasi Manajemen Perkantoran</item>
-    </string-array>
-
-    <string-array name="list_study_soshum">
-        <item />
-        <item>Matematika Soshum</item>
-        <item>Ekonomi</item>
-        <item>Geografi</item>
-        <item>Sejarah</item>
-        <item>Sosiologi</item>
     </string-array>
 </resources>

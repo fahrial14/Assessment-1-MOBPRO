@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/drawable/circle_background.xml" value="0.106" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.106" />
         <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/fragment_about.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/fragment_fasilitas.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/fragment_feedback.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/fragment_histori.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/fragment_hitung.xml" value="0.1" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/fragment_reward.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/layout/item_histori.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/menu/histori_menu.xml" value="0.2" />
+        <entry key="..\:/Telkom University 4/Pemrograman Untuk Perangkat Bergerak 1/Projects/Kotlin/NgampusRek/app/src/main/res/menu/options_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
