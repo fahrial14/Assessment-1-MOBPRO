@@ -5,8 +5,6 @@ import org.d3if1135.ngampusrek.db.NgampusEntity
 fun NgampusEntity.hitungReward(): HasilReward {
     val weekOfMonth = 4
     val price = (weekOfMonth * time * 50000).toString().toDouble()
-//    val kategori = getKategori(price, isStudy)
-//    hasilReward.value = HasilReward(price, kategori)
     val kategori = if (isStudy) {
         when {
             price < 249000 -> KategoriReward.TAS

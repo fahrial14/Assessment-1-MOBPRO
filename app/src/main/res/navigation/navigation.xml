@@ -18,6 +18,9 @@
         <action
             android:id="@+id/action_hitungFragment_to_historiFragment"
             app:destination="@id/historiFragment" />
+        <action
+            android:id="@+id/action_hitungFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
     </fragment>
 
     <fragment
@@ -36,4 +39,8 @@
         android:id="@+id/historiFragment"
         android:name="org.d3if1135.ngampusrek.ui.history.HistoriFragment"
         tools:layout="@layout/fragment_histori" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="org.d3if1135.ngampusrek.ui.campus.MainFragment"
+        tools:layout="@layout/fragment_main" />
 </navigation>

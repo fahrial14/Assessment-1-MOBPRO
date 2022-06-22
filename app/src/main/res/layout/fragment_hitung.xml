@@ -101,10 +101,22 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button
+            android:id="@+id/buttonKursus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="100dp"
+            android:layout_marginTop="2dp"
+            android:text="@string/jadwal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/waktuKursus_hint" />
+
+        <Button
             android:id="@+id/buttonHitung"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="3dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="2dp"
             android:text="@string/hitung"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

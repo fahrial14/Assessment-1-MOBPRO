@@ -10,6 +10,7 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 //import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.Navigation
 import androidx.navigation.fragment.findNavController
 import org.d3if1135.ngampusrek.R
 import org.d3if1135.ngampusrek.databinding.FragmentHitungBinding
@@ -91,6 +92,10 @@ class HitungFragment : Fragment() {
         binding.buttonHitung.setOnClickListener{ hitungBiaya() }
         binding.rewardButton.setOnClickListener {
             viewModel.mulaiNavigasi()
+        }
+        binding.buttonKursus.setOnClickListener{
+            Navigation.findNavController(view).navigate(R.id.action_hitungFragment_to_mainFragment)
+//            viewModel.kembaliNavigasi()
         }
         binding.shareButton.setOnClickListener { shareData() }
         viewModel.getHasilUtbk().observe(requireActivity(), { showResult(it) })
